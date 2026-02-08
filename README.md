@@ -43,8 +43,9 @@ El modelo **XGBoost** superó significativamente al Random Forest, demostrando s
    ```bash
    pip install -r requirements.txt
 
-## ✒️ Autor
+## >> Autor
 **Lorenzo Ji** - *Proyecto personal con recursos proporcionado por Kaggle*
 * Perfil de GitHub: https://github.com/Lorsimu
 * Correo académico: lorenzo.ji@estudiante.uam.es
+
 
